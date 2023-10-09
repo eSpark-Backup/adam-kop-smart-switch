@@ -129,24 +129,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VEMQJUJD
+DocumentUniqueId=DWBMORXQ
 
-[Document6]
-DocumentPath=Smart-Switch-v1.0 - NEW.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Smart-Switch-v1.0\Design Rule Check - Smart-Switch-v1.html
 DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GOVOYWGL
 
 [Configuration1]
 Name=Sources
