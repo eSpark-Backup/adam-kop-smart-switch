@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Smart-Switch-v1.1.PcbDoc   19/10/2023  5:44:11 pm
+NCDrill File Report For: Smart-Switch-v1.1.PcbDoc   27/10/2023  9:58:37 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : Smart-Switch-v1.1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             77        PTH        8.29inch (210.49mm)
-T2      37mil (0.95mm)                                            Round             2         PTH        0.10inch (2.50mm)
-T3      39mil (1mm)                                               Round             8         PTH        1.70inch (43.30mm)
-T4      43mil (1.1mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T1      8mil (0.2mm)                                              Round             174       PTH        10.14inch (257.52mm)
+T2      35mil (0.9mm)                                             Round             2         PTH        0.30inch (7.60mm)
+T3      37mil (0.95mm)                                            Round             2         PTH        0.10inch (2.50mm)
+T4      39mil (1mm)                                               Round             8         PTH        1.70inch (43.30mm)
 T5      51mil (1.3mm)                                             Round             7         PTH        1.61inch (40.98mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              96
+Totals                                                                              193
 
 Total Processing Time (hh:mm:ss) : 00:00:00
