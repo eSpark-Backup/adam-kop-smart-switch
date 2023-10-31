@@ -14,7 +14,7 @@ C13,22.3520mm,11.4300mm,Bottom,180
 C14,3.3274mm,6.2738mm,Bottom,90
 C15,4.1414mm,6.3506mm,Bottom,90
 C16,4.7764mm,6.3554mm,Bottom,90
-C17,6.7684mm,7.1082mm,Bottom,135
+C17,6.7056mm,7.0612mm,Bottom,135
 C18,8.0022mm,10.0838mm,Top,0
 C19,8.9419mm,8.9939mm,Bottom,90
 C20,5.0914mm,18.3642mm,Bottom,270
@@ -24,8 +24,8 @@ C24,9.2665mm,13.7676mm,Bottom,180
 C25,11.3974mm,6.2230mm,Bottom,180
 C26,12.2232mm,10.7442mm,Bottom,0
 C27,5.0914mm,19.6632mm,Bottom,90
-C28,7.3290mm,6.1498mm,Bottom,0
-C29,8.0037mm,8.0465mm,Bottom,180
+C28,7.3279mm,6.1468mm,Bottom,0
+C29,7.9200mm,8.0518mm,Bottom,180
 C30,0.8596mm,8.6544mm,Bottom,90
 C31,11.7348mm,18.8199mm,Bottom,270
 C32,2.0015mm,16.5365mm,Bottom,0
@@ -42,7 +42,7 @@ K1,14.5796mm,19.4056mm,Top,90
 L1,33.1778mm,31.0642mm,Top,0
 L2,33.6804mm,10.1346mm,Top,270
 L3,5.6642mm,6.7310mm,Bottom,0
-L4,7.7156mm,7.1286mm,Bottom,90
+L4,7.6200mm,7.1374mm,Bottom,90
 L5,9.6012mm,9.2920mm,Bottom,270
 LED1,1.6256mm,24.3586mm,Bottom,270
 P1,22.3266mm,8.9343mm,Top,270
