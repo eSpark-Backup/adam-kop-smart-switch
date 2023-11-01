@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Smart-Switch-v1.1.PcbDoc   31/10/2023  4:36:23 pm
+NCDrill File Report For: Smart-Switch-v1.1.PcbDoc   01/11/2023  9:31:11 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,12 @@ ASCII RoundHoles File : Smart-Switch-v1.1.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             174       PTH        10.14inch (257.52mm)
+T1      8mil (0.2mm)                                              Round             216       PTH        11.75inch (298.37mm)
 T2      35mil (0.9mm)                                             Round             2         PTH        0.30inch (7.60mm)
 T3      37mil (0.95mm)                                            Round             2         PTH        0.10inch (2.50mm)
 T4      39mil (1mm)                                               Round             8         PTH        1.70inch (43.30mm)
 T5      51mil (1.3mm)                                             Round             7         PTH        1.61inch (40.98mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              193
+Totals                                                                              235
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -4,9 +4,9 @@ C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\adamkop-smartswitc
 ========================================================================================================================
 File Design Information:
 
-Date:       31/10/23
-Time:       16:29
-Revision:   401b04131aaf8c44932d925d915fe62db98df30c
+Date:       01/11/23
+Time:       21:32
+Revision:   cd083ecf47144b105bf9c700b04a79a6ab7495d2
 Variant:    No variations
 Units used: mm
 
@@ -28,7 +28,7 @@ C15        4.1414mm     6.3506mm     BottomLayer 90       4.1414mm  6.3506mm  4.
 C16        4.7764mm     6.3554mm     BottomLayer 90       4.7764mm  6.3554mm  4.7764mm  6.0554mm  
 C17        6.7056mm     7.0612mm     BottomLayer 135      6.7056mm  7.0612mm  6.9177mm  6.8491mm  
 C18        8.0022mm     10.0838mm    TopLayer    0        8.0022mm  10.0838mm 7.7022mm  10.0838mm 
-C19        8.9419mm     8.9939mm     BottomLayer 90       8.9419mm  8.9939mm  8.9419mm  8.6939mm  
+C19        8.8149mm     8.9939mm     BottomLayer 90       8.8149mm  8.9939mm  8.8149mm  8.6939mm  
 C20        5.0914mm     18.3642mm    BottomLayer 270      5.0914mm  18.3642mm 5.0914mm  18.6642mm 
 C21        3.6884mm     7.7494mm     BottomLayer 90       3.6884mm  7.7494mm  3.6884mm  7.4494mm  
 C22        0.7072mm     12.0690mm    BottomLayer 270      0.7072mm  12.0690mm 0.7072mm  12.3690mm 
@@ -55,7 +55,7 @@ L1         33.1778mm    31.0642mm    TopLayer    0        33.1778mm 31.0642mm 31
 L2         33.6804mm    10.1346mm    TopLayer    270      33.6804mm 10.1346mm 33.6804mm 12.3846mm 
 L3         5.6642mm     6.7310mm     BottomLayer 0        5.6642mm  6.7310mm  5.3892mm  6.7310mm  
 L4         7.6200mm     7.1374mm     BottomLayer 90       7.6200mm  7.1374mm  7.6200mm  6.8624mm  
-L5         9.6012mm     9.2920mm     BottomLayer 270      9.6012mm  9.2920mm  9.6012mm  9.5670mm  
+L5         9.7028mm     9.3682mm     BottomLayer 270      9.7028mm  9.3682mm  9.7028mm  9.6432mm  
 LED1       1.6256mm     24.3586mm    BottomLayer 270      1.6256mm  24.3586mm 1.4256mm  22.9586mm 
 P1         22.3266mm    8.9343mm     TopLayer    270      22.3266mm 8.9343mm  22.3266mm 8.9343mm  
 P2         20.0619mm    8.9343mm     TopLayer    270      20.0619mm 8.9343mm  20.0619mm 8.9343mm  
@@ -71,7 +71,7 @@ R7         4.3942mm     7.6986mm     BottomLayer 270      4.3942mm  7.6986mm  4.
 R8         10.2017mm    14.4526mm    BottomLayer 90       10.2017mm 14.4526mm 10.2017mm 14.1776mm 
 R9         14.0942mm    20.1077mm    BottomLayer 90       14.0942mm 20.1077mm 14.0942mm 19.6378mm 
 R10        0.7112mm     10.5620mm    TopLayer    270      0.7112mm  10.5620mm 0.7112mm  10.8370mm 
-R11        1.5494mm     8.8900mm     TopLayer    180      1.5494mm  8.8900mm  2.3114mm  8.8900mm  
+R11        0.8596mm     8.3544mm     TopLayer    90       0.8596mm  8.3544mm  0.8596mm  7.5924mm  
 R12        1.8288mm     31.3944mm    BottomLayer 270      1.8288mm  31.3944mm 1.8288mm  32.8844mm 
 R13        1.8542mm     30.3022mm    TopLayer    270      1.8542mm  30.3022mm 1.8542mm  31.7922mm 
 R14        9.2310mm     15.8294mm    BottomLayer 90       9.2310mm  15.8294mm 9.2310mm  15.5544mm 
