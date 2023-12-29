@@ -1,1 +1,0 @@
-SSID and Password can be set in main.c file located in main directory, using macros EXAMPLE_ESP_WIFI_SSID and EXAMPLE_ESP_WIFI_PASS
