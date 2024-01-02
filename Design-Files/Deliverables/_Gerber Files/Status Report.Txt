@@ -1,12 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
-From  : Project [Smart-Switch-v1.1.PrjPcb]
-   Generated File[Smart-Switch-v1.1.TXT]
-   Generated File[Smart-Switch-v1.1.LDP]
-   Generated File[Smart-Switch-v1.1.DRR]
+From  : Project [Smart-Switch-v1.2.PrjPcb]
+   Generated File[Smart-Switch-v1.2.TXT]
+   Generated File[Smart-Switch-v1.2.LDP]
+   Generated File[Smart-Switch-v1.2.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 9:31:11 pm On 01/11/2023
+Finished Output Generation At 5:02:23 pm On 02/01/2024
